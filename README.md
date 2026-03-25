@@ -6,9 +6,10 @@ Skidded client; base ported to modern Minecraft by [@cattyngmd](https://github.c
 <img src="https://i.imgur.com/79UxxBt.png" width="90%">
 
 # Why
-![](https://i.imgur.com/VYjIphG.png)
+<img src="imgur.com/a/A1sKiZZ#jeVSCkZ.png" width="90%">
 
 # What
 uh idk shit abt coding but ima learn abt it, btw this cheat is vulnurable to every single anticheat on the earth
+btw ts format is a 1:1 replica gng 🥀💔
 
 </div>
