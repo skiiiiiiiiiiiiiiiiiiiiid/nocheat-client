@@ -3,12 +3,12 @@
 # no-cheat
 Skidded client; base ported to modern Minecraft by [@cattyngmd](https://github.com/cattyngmd)
 
-<img src="images/ui.png" width="90%" />
+<img src="https://imgur.com/jeVSCkZ" width="90%" />
 
 # Why
 ![](https://i.imgur.com/VYjIphG.png)
 
 # What
-Add stuff to it like you would add stuff to your 1.12.2 OyVey paste
+uh idk shit abt coding but ima learn abt it, btw this cheat is vulnurable to every single anticheat on the earth
 
 </div>
