@@ -3,7 +3,7 @@
 # no-cheat
 Skidded client; base ported to modern Minecraft by [@cattyngmd](https://github.com/cattyngmd)
 
-<img src="https://imgur.com/jeVSCkZ" width="90%" />
+<img src="https://imgur.com/79UxxBt" width="90%" />
 
 # Why
 ![](https://i.imgur.com/VYjIphG.png)
