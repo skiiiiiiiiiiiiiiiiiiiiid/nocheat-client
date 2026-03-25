@@ -6,7 +6,7 @@ Skidded client; base ported to modern Minecraft by [@cattyngmd](https://github.c
 <img src="https://i.imgur.com/79UxxBt.png" width="90%">
 
 # Why
-<img src="https://i.imgur.com/XXXXX.png" width="90%">
+<img src="https://i.imgur.com/xEuH5fE.png" width="90%">
 
 # What
 uh idk shit abt coding but ima learn abt it, btw this cheat is vulnurable to every single anticheat on the earth
